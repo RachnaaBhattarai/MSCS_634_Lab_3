@@ -1,4 +1,6 @@
-# MSCS_634_Lab_3# Lab 3: Clustering Analysis Using K-Means and K-Medoids Algorithms
+# MSCS_634_Lab_3
+
+# Lab 3: Clustering Analysis Using K-Means and K-Medoids Algorithms
 
 ## Course: MSCS 634 - Advanced Big Data and Data Mining (Summer 2025)  
 **Name:** Rachna Bhattarai 
